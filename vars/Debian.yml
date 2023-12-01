@@ -1,6 +1,4 @@
 ---
 __nut_packages:
-  - nut-client
-  - nut-server
-  - nut-monitor
+  - nut
 __nut_config_dir: /etc/nut/
